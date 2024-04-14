@@ -1,0 +1,94 @@
+[
+    
+    {
+    "name": "The Last Of Us Part ll",
+    "description": "Ellie embarks in a quest for revenge, figthing the cordyceps, or humans.",
+    "pricePerUnit": 799.00,
+    "stock": 20,
+    "category": "Playstation",
+    "imageUrl": "https://assets1.ignimgs.com/2020/03/05/last-of-us-2---button-2020-1583430650540.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2",
+    "unit": "pieces"
+    },
+    {
+    "name": "God Of War: Ragnarok",
+    "description": "You gotta stop ragnarok, or else all nine realms will be destroyed.",
+    "pricePerUnit": 1500.00,
+    "stock": 20,
+    "category": "Playstation",
+    "imageUrl": "https://areajugones.sport.es/wp-content/uploads/2020/11/god-of-war-ragnarok-474x588.jpg.webp",
+    "unit": "pieces"
+    },
+    {
+    "name": "Marvel's Spiderman 2",
+    "description": "Be Greater. Be Yourself. Be Venom.",
+    "pricePerUnit": 1000.00,
+    "stock": 50,
+    "category": "Playstation",
+    "imageUrl": "https://cdna.artstation.com/p/assets/images/images/037/340/840/large/not_alish-black-suit-logo-remastered-half.jpg?1620138382",
+    "unit": "pieces"
+    },
+    {
+    "name": "Red Dead Redemption 2",
+    "description": "You are an outlaw just trying to earn your life along with your band.",
+    "pricePerUnit": 1200.00,
+    "stock": 20,
+    "category": "XBOX",
+    "imageUrl": "https://cdna.artstation.com/p/assets/images/images/037/340/840/large/not_alish-black-suit-logo-remastered-half.jpg?1620138382",
+    "unit": "pieces"
+    },
+    {
+    "name": "Celeste",
+    "description": "Climb the Celeste mountain, battling your anxiety.",
+    "pricePerUnit": 499.00,
+    "stock": 50,
+    "category": "Steam",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Celeste_video_game_logo.png",
+    "unit": "pieces"
+    },
+    {
+    "name": "Hi-Fi Rush",
+    "description": "language is the music, turning us into the star performer within its rhythmic world.",
+    "pricePerUnit": 800.00,
+    "stock": 10,
+    "category": "XBOX",
+    "imageUrl": "https://vectorseek.com/wp-content/uploads/2023/07/Hi-Fi-Rush-Logo-Vector.jpg",
+    "unit": "pieces"
+    },
+    {
+    "name": "Sea Of Thieves",
+    "description": "Plunder, Sabotage. Be a Pirate.",
+    "pricePerUnit": 1000.00,
+    "stock": 37,
+    "category": "XBOX",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Sea_of_thieves_cover_art.jpg",
+    "unit": "pieces"
+    },
+    {
+    "name": "Halo",
+    "description": "You are an Spartan helping earth against the covenant.",
+    "pricePerUnit": 1200.00,
+    "stock": 39,
+    "category": "XBOX",
+    "imageUrl": "https://i.pinimg.com/originals/9e/2d/f3/9e2df3cdab69c38f5579926e4747441d.png",
+    "unit": "pieces"
+    },
+    {
+    "name": "Forza Horizon",
+    "description": "Be Fast, Be First.",
+    "pricePerUnit": 1300.00,
+    "stock": 70,
+    "category": "XBOX",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Forza_Horizon_logo.svg/937px-Forza_Horizon_logo.svg.png",
+    "unit": "pieces"
+    },
+    {
+    "name": "Uncharted: Drake's Fortune",
+    "description": "Accompany Nathan Drake to an amazing adventure in search of the Azteca Gold.",
+    "pricePerUnit": 700.00,
+    "stock": 15,
+    "category": "Playstation",
+    "imageUrl": "https://fontmeme.com/images/Uncharted-Game.jpg",
+    "unit": "pieces"
+    }
+
+]
